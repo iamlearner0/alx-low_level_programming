@@ -31,7 +31,7 @@ void print_dog(struct dog *d)
 	}
 	else if(d = NULL)
 	{
-		printf("");
+		return (0);
 	}
 }
 
